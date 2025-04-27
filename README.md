@@ -35,10 +35,3 @@ This project performs sentiment analysis on tweets using machine learning models
    ```bash
    python test_model.py
    ```
-
-## Note
-- Ensure that `data.csv` (the dataset) is tracked by Git LFS to prevent file size issues with GitHub.
-- For detailed usage, refer to the provided scripts for training and testing the sentiment model.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
